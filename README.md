@@ -1,5 +1,6 @@
 # Twitter Sentiment Analyzer
 
+![Project Screenshot](image/Screenshot2025-10-16011612.png)
 A real-time Twitter sentiment analysis tool that classifies tweets as Positive, Neutral, Negative, or Uncertain.  
 Users can type a tweet manually or fetch a Twitter user's recent tweets for analysis. 
 The app includes animated feedback, sentiment summary charts, and word cloud visualizations.
@@ -177,3 +178,4 @@ Twitter API for data access
 LottieFiles for animation assets
 
 Scikit-learn for ML models and TF-IDF
+
