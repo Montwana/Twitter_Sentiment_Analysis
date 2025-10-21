@@ -40,7 +40,7 @@ This project aims to analyze Twitter data and classify the sentiment of tweets.
   - text: The content of the tweet  
   - sentiment: Predicted sentiment label  
 - **Suitability:** Ideal for NLP classification using TF-IDF and ensemble ML models.  
-- **Number of Rows/Columns:** Rows= 691248, Coloums = 2
+- **Number of Rows/Columns:** Rows= 691248, Columns = 2
 
 ---
 
@@ -179,5 +179,6 @@ Twitter API for data access
 LottieFiles for animation assets
 
 Scikit-learn for ML models and TF-IDF
+
 
 
